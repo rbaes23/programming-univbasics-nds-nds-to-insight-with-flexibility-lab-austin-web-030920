@@ -88,7 +88,7 @@ def gross_per_studio(collection)
     end
     i += 1
   end
-  pp all_totals
+  all_totals
 end
 
   # GOAL: For each director, find their :movies Array and stick it in a new Array
